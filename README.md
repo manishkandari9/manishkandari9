@@ -8,6 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=manishkandari9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+# 🌌 Tech Universe
+
+## ⚡ Core Powers
+
+```javascript
+const languages = ['JavaScript', 'Python', 'TypeScript', 'Java', 'C++'];
+const webTech = ['React', 'Node.js', 'Express', 'Next.js', 'React-Native'];
+const databases = ['MongoDB', 'PostgreSQL', 'Appwrite'];
+```
+🛸 Mission Control
+
+🎨 Design Arsenal
+
+
 
 
 ---
