@@ -8,103 +8,142 @@
   <img src="https://komarev.com/ghpvc/?username=manishkandari9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# 🌌 Tech Universe
 
+# 🌌 Tech Universe
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 ## ⚡ Core Powers
 
-```javascript
-const languages = ['JavaScript', 'Python', 'TypeScript', 'Java', 'C++'];
-const webTech = ['React', 'Node.js', 'Express', 'Next.js', 'React-Native'];
-const databases = ['MongoDB', 'PostgreSQL', 'Appwrite'];
+```python
+class ManishKandari:
+
+    def __init__(self):
+        self.username = 'manishkandari9'
+        self.name = 'Manish Kandari'
+        self.web = 'https://manishkandariPortfolio'  
+        self.LeetCode = '@manishkandari9'
+        self.linkedin = 'manishsinghkandari' 
+        self.code = {
+            'language': ['JavaScript', 'Python', 'C++', 'Java', 'Go', 'TypeScript',],
+            'web tech': ['React.Js', 'Node.js', 'NextJS', '  Express', ],
+            'database': ['MongoDB', 'PostgreSQL', 'SQLite3',],
+            'tools': ['GIT', 'GitHub'],
+        }
+        self.dev_tools = ['Docker']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = ManishKandari()
+    print(me)
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
 🛸 Mission Control
 
-🎨 Design Arsenal
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
+# 🎨 Design Arsenal
 
+### 🛠️ Design Tools
 
-
----
-
-### 🚀 Quick Bio
-
-<p align="center">
-  🔭 <b>Currently working on:</b> <i>Exciting Projects that push boundaries!</i>
-</p>
-<p align="center">
-  🌱 <b>Always exploring:</b> <i>The ever-evolving world of tech!</i>
-</p>
-<p align="center">
-  💬 <b>Ask me about:</b> <i>Python, JavaScript, and Data Structures.</i>
-</p>
-<p align="center">
-  📫 <b>Reach me at:</b> <a href="mailto:manishkandari168@gmail.com"><i>manishkandari168@gmail.com</i></a>
-</p>
-<p align="center">
-  ⚡ <b>Fun fact:</b> <i>I debug code faster than I decide on dinner! 🍕💻</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <div align="center">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </div>
-</p>
-
----
-🔥Github streak stats
+```javascript
+const design_tools = {
+    "UI/UX": ["Figma", "Adobe XD"],
+    "Graphics": ["Photoshop", "Illustrator"],
+    "Prototyping": ["InVision", "Sketch"]
+};
+```
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/manishkandari9/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=manishkandari9&show_icons=true&theme=radical" alt="Manish Kandari GitHub Stats" />
-  </a>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkandari9&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkandari9&theme=radical" alt="GitHub Streak" />
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkandari9&theme=radical" alt="GitHub Trophies" />
+  <h3>Frameworks that I have worked on</h3>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </div>
 </div>
 
-
-
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<div align="left">
+  <h3>My Contribution</h3>
+  <div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
+</div>
+  <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkandari9&theme=react-dark" width="100%" />
 </div>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <h3 style="font-size: 24px;">🔥 Github Streak Stats</h3>
+  
+<!-- snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+</div>
+
+<p align="center">
+  <!-- stats (start) -->
+</p>
+<table align="center">
+  <tbody>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkandari9&theme=dark&show_icons=true&count_private=true">
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkandari9&theme=dark&hide_border=false">
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manishkandari9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=manishkandari9&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+  </a>
+</div>
+<!-- trophy (end) -->
+
+<p></p>
+
+<!-- h1 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+    
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+</div>
+
 
 ### 🤝 Connect with me
 
@@ -124,12 +163,10 @@ const databases = ['MongoDB', 'PostgreSQL', 'Appwrite'];
 </p>
 
 ---
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
-</div>
 
 ---
 
