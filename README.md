@@ -8,12 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=manishkandari9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<div align="center">
-  
-  [![Manish Kandari GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkandari9&show_icons=true&theme=radical)](https://github.com/manishkandari9/github-readme-stats)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkandari9&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
 ---
 
@@ -71,11 +66,27 @@
 </p>
 
 ---
+🔥Github streak stats
+<div align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/manishkandari9/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=manishkandari9&show_icons=true&theme=radical" alt="Manish Kandari GitHub Stats" />
+  </a>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkandari9&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkandari9&theme=radical" alt="GitHub Streak" />
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=manishkandari9&theme=radical" alt="GitHub Trophies" />
+</div>
 
-### 📊 GitHub Stats
+
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkandari9&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkandari9&theme=react-dark" width="100%" />
 </div>
 
