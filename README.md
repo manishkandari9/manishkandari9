@@ -19,12 +19,27 @@
 
 ### 🚀 Quick Bio
 
-- 🔭 I'm currently working on **Exciting Projects**
-- 🌱 Always exploring and learning in the tech world.
-- 💬 Ask me about **Python, JavaScript, and Data Structures**
-- 📫 Reach me at: **manishkandari168@gmail.com**
-- ⚡ Fun fact: **I debug code faster than I decide on dinner!**
+<p align="center">
+  🔭 <b>Currently working on:</b> <i>Exciting Projects that push boundaries!</i>
+</p>
+<p align="center">
+  🌱 <b>Always exploring:</b> <i>The ever-evolving world of tech!</i>
+</p>
+<p align="center">
+  💬 <b>Ask me about:</b> <i>Python, JavaScript, and Data Structures.</i>
+</p>
+<p align="center">
+  📫 <b>Reach me at:</b> <a href="mailto:manishkandari168@gmail.com"><i>manishkandari168@gmail.com</i></a>
+</p>
+<p align="center">
+  ⚡ <b>Fun fact:</b> <i>I debug code faster than I decide on dinner! 🍕💻</i>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 ---
 
 ### 🛠️ Tech Stack
