@@ -105,9 +105,13 @@ const design_tools = {
   <h3 style="font-size: 24px;">🔥 Github Streak Stats</h3>
   
 <!-- snake -->
+
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/main/resources/img/grid-snake.svg" alt="snake">
 </div>
+
+<!--   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"> -->
+<!-- </div>  -->
 
 <p align="center">
   <!-- stats (start) -->
