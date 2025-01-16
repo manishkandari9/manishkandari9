@@ -4,9 +4,9 @@
 
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishkandari9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/manishkandari9/count.svg?"  />
+</div>
 <table align="center">
   <tbody>
     <tr>
@@ -88,7 +88,6 @@ const design_tools = {
 <div align="left">
   <h3>My Contribution</h3>
   <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
 </div>
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkandari9&theme=react-dark" width="100%" />
