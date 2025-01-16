@@ -107,8 +107,9 @@ const design_tools = {
 <!-- snake -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/main/resources/img/grid-snake.svg" alt="snake">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 <!--   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"> -->
 <!-- </div>  -->
