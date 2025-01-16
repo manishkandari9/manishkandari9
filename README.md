@@ -1,12 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=F7F7F7&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋+I'm+Manish+Kandari;Welcome+to+my+GitHub!" alt="Manish Kandari" />
-</div>
 
-<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I'm+Manish+Kandari;Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+    </td>
+    <td align="right" width="120">
+      <div>
+        <img src="https://profile-counter.glitch.me/manishkandari9/count.svg?" width="100" />
+      </div>
+    </td>
+  </tr>
+</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/manishkandari9/count.svg?"  />
-</div>
 <table align="center">
   <tbody>
     <tr>
