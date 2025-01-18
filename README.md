@@ -15,21 +15,15 @@
 
 <h2 align="center">Leetcode Info</h2>  
 
-<!-- LeetCard for dynamic stats -->
 <p align="center">
   <a href="https://leetcode.com/manishkandari09/" target="_blank">
-    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/manishkandari09?theme=dark&font=Nunito&ext=heatmap" alt="manishkandari09 LeetCode Stats" />
+    <img align="center" src="assets/LeetCode_75.gif" alt="manishkandari09 - 75 problems solved" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/manishkandari09/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="manishkandari09 - January 2025 badge" height="200" width="200" /></a>
 </p>
 
-<!-- Specific Badges for 2025 -->
 <p align="center">
-  <a href="https://leetcode.com/manishkandari09/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2025/gif/2025-75.gif" alt="75 Problems Solved in 2025" height="150" />
-  </a>
-  <a href="https://leetcode.com/manishkandari09/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="January 2025 Monthly Badge" height="150" />
-  </a>
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/manishkandari09?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
