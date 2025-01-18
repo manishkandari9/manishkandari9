@@ -14,22 +14,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <h2 align="center">Leetcode Info</h2>  
+
+<!-- LeetCard for dynamic stats -->
 <p align="center">
-  <a href="https://leetcode.com/manishkandri09/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="manishkandri09" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/manishkandri09/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="manishkandri09" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/manishkandri09/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="manishkandri09" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/manishkandri09/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="manishkandri09" height="200" width="200" />
+  <a href="https://leetcode.com/manishkandari09/" target="_blank">
+    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/manishkandari09?theme=dark&font=Nunito&ext=heatmap" alt="manishkandari09 LeetCode Stats" />
   </a>
 </p>
+
+<!-- Specific Badges for 2025 -->
 <p align="center">
-  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/manishkandri09?theme=dark&font=Nunito&ext=heatmap" />
+  <a href="https://leetcode.com/manishkandari09/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2025/gif/2025-75.gif" alt="75 Problems Solved in 2025" height="150" />
+  </a>
+  <a href="https://leetcode.com/manishkandari09/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="January 2025 Monthly Badge" height="150" />
+  </a>
 </p>
 
 
