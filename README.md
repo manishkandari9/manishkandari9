@@ -17,9 +17,9 @@
 
 <p align="center">
   <a href="https://leetcode.com/manishkandari09/" target="_blank">
-    <img align="center" src="assets/LeetCode_75.gif" alt="manishkandari09 - 75 problems solved" height="200" width="200" />
+    <img align="center" src="assets/LeetCode_75.gif" alt="manishkandari09 - 75 problems solved" height="150" width="150" />
   </a>
-  <a href="https://leetcode.com/manishkandari09/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="manishkandari09 - January 2025 badge" height="200" width="200" /></a>
+   <a href="https://leetcode.com/its-manishkandari09/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
 </p>
 
 <p align="center">
