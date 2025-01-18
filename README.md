@@ -13,23 +13,23 @@
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-<table align="center">
+<!--<table align="center">
   <tbody>
     <tr>
-      <!-- Left Side: Text -->
+     `
       <td width="50%" align="center" valign="top">
         <h3 style="font-size: 28px; color: #4CAF50; font-family: 'Roboto', sans-serif;"><strong>A dedicated Computer Science Engineering student</strong></h3>
         <p style="font-size: 50px; color: #333; font-family: 'Arial', sans-serif;">Passionate about leveraging technology to create meaningful solutions.</p>
         <p style="font-size: 50px; color: #333; font-family: 'Arial', sans-serif;">👀 Exploring new opportunities, and embracing challenges that come my way, both academically and personally.</p>
         <p style="font-size: 50px; color: #333; font-family: 'Arial', sans-serif;">🌱 I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey.</p>
       </td>
-      <!-- Right Side: GIF -->
+  `
       <td width="50%" align="center" valign="top">
         <img src="assets/connected.gif" alt="Connected GIF" style="max-width: 100%; height: auto;" />
       </td>
     </tr>
   </tbody>
-</table>
+</table>-->
 
 
 
