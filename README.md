@@ -13,6 +13,26 @@
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
+<h2 align="center">Leetcode Info</h2>  
+<p align="center">
+  <a href="https://leetcode.com/manishkandri09/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="manishkandri09" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/manishkandri09/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="manishkandri09" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/manishkandri09/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="manishkandri09" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/manishkandri09/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="manishkandri09" height="200" width="200" />
+  </a>
+</p>
+<p align="center">
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/manishkandri09?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+
 <!--<table align="center">
   <tbody>
     <tr>
