@@ -136,7 +136,7 @@ const design_tools = {
     <tr border="none">
       <td width="50%" align="center">
 <!--         <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkandari9&theme=dark&show_icons=true&count_private=true"> -->
-        <img width="390" src="https://streak-stats.demolab.com/?user=manishkandari09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=manishkandari09&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
         <br><br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkandari9&theme=dark&hide_border=false">
       </td>
