@@ -58,7 +58,7 @@ class ManishKandari:
         self.username = 'manishkandari9'
         self.name = 'Manish Kandari'
         self.web = 'https://manishkandariPortfolio'  
-        self.LeetCode = '@manishkandari9'
+        self.LeetCode = '@manishkandari09'
         self.linkedin = 'manishsinghkandari' 
         self.code = {
             'language': ['JavaScript', 'Python', 'C++', 'Java', 'Go', 'TypeScript',],
