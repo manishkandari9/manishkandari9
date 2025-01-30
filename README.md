@@ -62,8 +62,8 @@ class ManishKandari:
         self.linkedin = 'manishsinghkandari' 
         self.code = {
             'language': ['JavaScript', 'Python', 'C++', 'Java', 'Go', 'TypeScript',],
-            'web tech': ['React.Js', 'Node.js', 'NextJS', '  Express', ],
-            'database': ['MongoDB', 'PostgreSQL', 'SQLite3',],
+            'web tech': ['React.Js', 'Node.js', 'NextJS', '  Express' , ],
+            'database': ['MongoDB', 'PostgreSQL',],
             'tools': ['GIT', 'GitHub'],
         }
         self.dev_tools = ['Docker']
