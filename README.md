@@ -62,7 +62,7 @@ class ManishKandari:
         self.linkedin = 'manishsinghkandari' 
         self.code = {
             'language': ['JavaScript', 'Python', 'C++', 'Java', 'Go', 'TypeScript',],
-            'web tech': ['React.Js', 'Node.js', 'NextJS', '  Express' Talwind  , ],
+            'web tech': ['React.Js', 'Node.js', 'NextJS', '  Express, Talwind  , ],
             'database': ['MongoDB', 'PostgreSQL',],
             'tools': ['GIT', 'GitHub'],
         }
