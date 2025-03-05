@@ -1,25 +1,19 @@
-name: generate animation
+name: Generate Snake & Radar Chart
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # allows to manually run the job at any time
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
-  
-  # run on every push on the main branch
   push:
     branches:
-    - main
-    
+      - main
+
 jobs:
-  generate:
+  generate_snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,10 +23,42 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+
       - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output  
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate_radar_chart:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate GitHub Radar Chart
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: "repositories"
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_trim: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_radar: yes
+          plugin_radar_achievements: yes
+          plugin_radar_sections: repositories, issues, commits, pull_requests, reviews
+
+      - name: Push radar chart to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output  
