@@ -2,11 +2,8 @@ name: Generate GitHub Radar Chart
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 */12 * * *"  # Har 12 ghante me run hoga
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate_radar:
@@ -21,13 +18,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
 
-          # ✅ **Enable Radar Chart**
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: programming
-          plugin_languages_colors: github
-          plugin_languages_ignored: html, css
-          plugin_languages_threshold: 2%
+          # ✅ Radar Chart Enable
+          plugin_languages: no
+          plugin_habits: no
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          plugin_activity_filter: all
 
       - name: Ensure dist folder exists
         run: mkdir -p dist
