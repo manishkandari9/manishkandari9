@@ -2,8 +2,8 @@ name: Generate GitHub Radar Chart
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Har din 12 AM pe chalega
-  workflow_dispatch:  # Manually run karne ka option
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:
 
 jobs:
   generate_radar:
@@ -11,14 +11,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate GitHub Radar Chart
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Metrics Radar Chart
         uses: lowlighter/metrics@latest
         with:
           filename: dist/metrics_radar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
-
-          # ✅ Enable Radar Chart
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
