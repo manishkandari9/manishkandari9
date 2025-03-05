@@ -1,4 +1,4 @@
-name: Generate Snake & Radar Chart
+name: Generate Snake & Stats
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: manishkandari9
@@ -24,7 +24,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
+      - name: Push GitHub Contribution Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output  
@@ -32,12 +35,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  generate_radar_chart:
+  generate_stats:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate GitHub Radar Chart
+      - name: Generate GitHub Metrics Stats
         uses: lowlighter/metrics@latest
         with:
           filename: dist/metrics.svg
@@ -54,11 +57,11 @@ jobs:
           plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_radar: yes
-          plugin_radar_achievements: yes
-          plugin_radar_sections: repositories, issues, commits, pull_requests, reviews
 
-      - name: Push radar chart to output branch
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
+      - name: Push GitHub Metrics Stats to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output  
