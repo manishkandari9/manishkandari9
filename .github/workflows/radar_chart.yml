@@ -2,8 +2,8 @@ name: Generate GitHub Radar Chart
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Har 12 ghante me run hoga
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Har din 12 AM pe chalega
+  workflow_dispatch:  # Manually run karne ka option
 
 jobs:
   generate_radar:
@@ -18,9 +18,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
 
-          # ✅ Radar Chart Enable
-          plugin_languages: no
-          plugin_habits: no
+          # ✅ Enable Radar Chart
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
