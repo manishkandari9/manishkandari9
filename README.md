@@ -211,8 +211,7 @@ const design_tools = {
 
 
 ---
-### 📊 GitHub Stats
-![Stats](https://raw.githubusercontent.com/manishkandari9/output/main/metrics.svg)
+###![GitHub Radar Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkandari9)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
