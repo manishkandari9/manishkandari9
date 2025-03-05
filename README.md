@@ -211,9 +211,6 @@ const design_tools = {
 
 
 ---
-### 🚀 My GitHub Contribution Activity
-![GitHub Radar Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkandari9)
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
