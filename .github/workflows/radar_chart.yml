@@ -1,37 +1,38 @@
-name: Generate Radar Chart
+name: Generate GitHub Radar Chart
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate_radar_chart:
+  generate_radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Ensure dist directory exists
-        run: mkdir -p dist
-
-      - name: Generate GitHub Metrics Radar Chart
+      - name: Generate GitHub Radar Chart
         uses: lowlighter/metrics@latest
         with:
+          filename: dist/metrics_radar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics_radar.svg  # `dist/` mat likho
           base: "repositories"
+
+          # ✅ **Enable Radar Chart**
           plugin_languages: yes
-          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: programming
+          plugin_languages_colors: github
+          plugin_languages_ignored: html, css
+          plugin_languages_threshold: 2%
 
-      - name: Debug Directory
-        run: ls -R
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
 
-      - name: Push to Output Branch
+      - name: Push GitHub Radar Chart to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output  
