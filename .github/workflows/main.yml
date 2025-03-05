@@ -64,6 +64,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+          # ✅ Enable Achievements (Enhances Radar Chart)
+          plugin_achievements: yes
+          plugin_achievements_threshold: C  # Common Achievements
+
           # ✅ **Enable Radar Chart (Activity Overview)**
           plugin_activity: yes
           plugin_activity_limit: 5
