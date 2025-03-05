@@ -211,6 +211,8 @@ const design_tools = {
 
 
 ---
+### 📊 GitHub Stats
+![Stats](https://raw.githubusercontent.com/manishkandari9/output/main/metrics.svg)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
