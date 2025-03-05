@@ -16,11 +16,11 @@ jobs:
       - name: Generate GitHub Metrics Radar Chart
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/metrics_radar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: dist/metrics_radar.svg
           base: "repositories"
           plugin_languages: yes
-          plugin_languages_chart: yes
+          plugin_languages_sections: most-used
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
