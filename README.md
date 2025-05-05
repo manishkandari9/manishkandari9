@@ -120,9 +120,19 @@ const design_tools = {
   
 <!-- snake -->
 
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <!-- Optional: Ocean Theme GIF -->
+  <br><br>
+  <img src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/ocean.gif" alt="Ocean Snake Animation" width="100%" />
 </div>
+
 
 
 <!--   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"> -->
