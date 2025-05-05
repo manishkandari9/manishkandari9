@@ -128,9 +128,7 @@ const design_tools = {
     <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  <!-- Optional: Ocean Theme GIF -->
-  <br><br>
-  <img src="https://raw.githubusercontent.com/manishkandari9/manishkandari9/output/ocean.gif" alt="Ocean Snake Animation" width="100%" />
+  
 </div>
 
 
