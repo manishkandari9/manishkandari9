@@ -53,41 +53,29 @@
 
 ```python
 class ManishKandari:
-
     def __init__(self):
         self.username = 'manishkandari9'
         self.name = 'Manish Kandari'
         self.web = 'https://manishkandariPortfolio'
         self.leetcode = '@manishkandari09'
         self.linkedin = 'manishsinghkandari'
+
         self.code = {
-            'language': ['JavaScript', 'Python', 'C++', 'C', 'Java', 'Go', 'TypeScript'],
+            'languages': ['JavaScript', 'Python', 'C++', 'C', 'Java', 'Go', 'TypeScript'],
             'web_tech': ['React.js', 'Node.js', 'Next.js', 'Express', 'Tailwind CSS'],
             'database': ['MongoDB', 'PostgreSQL'],
             'tools': ['GIT', 'GitHub'],
         }
+
         self.dev_tools = ['Docker']
 
-    def generate_markdown(self):
-        md = f"# {self.name}\n\n"
-        md += f"👨‍💻 **Developer Profile:** {self.name} (@{self.username})  \n"
-        md += f"🌐 **Portfolio:** [{self.web}]({self.web})  \n"
-        md += f"🔗 **LinkedIn:** [{self.linkedin}](https://www.linkedin.com/in/{self.linkedin})  \n"
-        md += f"🧠 **LeetCode:** [{self.leetcode}](https://leetcode.com/{self.leetcode.strip('@')})  \n\n"
-        md += "---\n\n"
-        md += "### 🛠️ Skills:\n\n"
-        for category, items in self.code.items():
-            label = category.replace('_', ' ').title()
-            md += f"- **{label}:** {', '.join(items)}  \n"
-        md += f"- **Dev Tools:** {', '.join(self.dev_tools)}  \n"
-        return md
+    def __str__(self):
+        return self.name
 
 
-# Usage:
-manish = ManishKandari()
-readme_md = manish.generate_markdown()
-print(readme_md)
-
+if __name__ == '__main__':
+    me = ManishKandari()
+    print(me)
 
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
