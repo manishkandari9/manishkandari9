@@ -57,24 +57,35 @@ class ManishKandari:
     def __init__(self):
         self.username = 'manishkandari9'
         self.name = 'Manish Kandari'
-        self.web = 'https://manishkandariPortfolio'  
-        self.LeetCode = '@manishkandari09'
-        self.linkedin = 'manishsinghkandari' 
+        self.web = 'https://manishkandariPortfolio'
+        self.leetcode = '@manishkandari09'
+        self.linkedin = 'manishsinghkandari'
         self.code = {
-            'language': ['JavaScript, 'Python', 'C++' C , , 'Java', 'Go, 'TypeScript',],
-            'web tech': ['React.Js', 'Node.js', 'NextJS', '  Express, Talwind  , ],
-            'database': ['MongoDB', 'PostgreSQL',],
-            'tools': ['GIT', 'GitHub'],
+            'languages': ['JavaScript', 'Python', 'C++', 'C', 'Java', 'Go'],
+            'frontend': ['React.js', 'Next.js', 'Tailwind CSS'],
+            'backend': ['Node.js', 'Express.js'],
+            'database': ['MongoDB'],
+            'dev_tools': ['GIT', 'GitHub', 'CI/CD', 'Figma'],
+            'other_skills': ['REST API'],
         }
-        self.dev_tools = ['Docker']
 
     def __str__(self):
-        return self.name
+        profile = f"👨‍💻 Developer Profile: {self.name} (@{self.username})\n"
+        profile += f"🌐 Portfolio: {self.web}\n"
+        profile += f"🔗 LinkedIn: {self.linkedin}\n"
+        profile += f"🧠 LeetCode: {self.leetcode}\n\n"
+        profile += "🛠️ Tech Stack:\n"
+        for key, values in self.code.items():
+            label = key.replace('_', ' ').title()
+            tech_list = ', '.join(values)
+            profile += f" - {label}: {tech_list}\n"
+        return profile
 
 
-if __name__ == '__main__':
-    me = ManishKandari()
-    print(me)
+# Example usage
+manish = ManishKandari()
+print(manish)
+
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
