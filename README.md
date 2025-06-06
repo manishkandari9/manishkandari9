@@ -242,7 +242,19 @@ const design_tools = {
     <!-- Git -->
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <!-- GitHub -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(1);" />
+   <!-- White GitHub SVG Icon — Direct Use For README -->
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 128 128">
+  <g>
+    <path fill="#fff" d="M64 5.3C32.6 5.3 7.8 30 7.8 61.6c0 24.9 15.7 46 37.6 53.4
+    2.7.5 3.7-1.2 3.7-2.6 0-1.3 0-5.5 0-10-15.3 3.3-18.5-6.6-18.5-6.6-2.4-6.1-5.8-7.8-5.8-7.8-4.8-3.3.4-3.2.4-3.2
+    5.3.4 8 5.4 8 5.4 4.7 8 12.3 5.7 15.3 4.4.5-3.4 1.8-5.7 3.2-7-12.2-1.4-25-6.1-25-27.1
+    0-6 2.1-10.9 5.4-14.7-.5-1.3-2.3-6.5.5-13.6 0 0 4.6-1.5 15 5.6
+    4.3-1.2 8.9-1.8 13.4-1.8 4.5 0 9.1.6 13.4 1.8 10.4-7.1 15-5.6 15-5.6
+    2.8 7.1 1 12.3.5 13.6 3.4 3.8 5.4 8.7 5.4 14.7 0 21.1-12.8 25.7-25 27.1
+    1.8 1.5 3.4 4.4 3.4 8.9 0 6.4 0 11.6 0 13.2 0 1.4 1 3.1 3.7 2.6
+    21.9-7.4 37.6-28.5 37.6-53.4C120.2 30 95.4 5.3 64 5.3z"/>
+  </g>
+</svg>
     <!-- Postman -->
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </p>
