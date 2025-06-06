@@ -100,17 +100,27 @@ const design_tools = {
 <div align="center">
   <h3>🚀 Frameworks that I have worked on</h3>
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    <!-- React -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <!-- Next.js (Colorful Custom SVG) -->
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+    <!-- Node.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <!-- Express.js (Commented Out) -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> -->
+    <!-- Tailwind CSS -->
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+    <!-- Django -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+    <!-- Flask -->
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+    <!-- FastAPI -->
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
-    <img src="https://user-images.githubusercontent.com/62628408/235638889-59d18356-ef8d-4e38-a34e-9bb1fd51056b.png" alt="Gin Gonic" width="40" height="40"/>
+    <!-- Go (Colorful version) -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
   </div>
 </div>
+
 
 
 
