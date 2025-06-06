@@ -258,8 +258,10 @@ const design_tools = {
   <a href="mailto:manishkandari168@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <!-- Buy Me a Coffee Widget -->
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="manishkandari9" data-description="Support me on Buy me a coffee!" data-message="Thank you for your support! 🙏" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://coff.ee/manishkandari9" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=manishkandari9&button_colour=FF813F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee"/>
+  </a>
+
 </p>
 
 ---
