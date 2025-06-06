@@ -13,6 +13,12 @@
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
+<p align="center">
+  [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%F0%9F%8D%B5-blue)](https://www.buymeacoffee.com/yourusername) ❤️ 19 <br>
+  https://coff.ee/manishkandari9
+</p>
+
+
 <h2 align="center">Leetcode Info</h2>  
 
 <p align="center">
@@ -257,9 +263,6 @@ const design_tools = {
   </a>
   <a href="mailto:manishkandari168@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-<a href="https://coff.ee/manishkandari9" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=manishkandari9&button_colour=FF813F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee"/>
   </a>
 
 </p>
