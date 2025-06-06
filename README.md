@@ -15,10 +15,8 @@
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/manishkandari9" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%F0%9F%8D%B5-blue" alt="Buy me a coffee"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8D%B5-yellowgreen?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"/>
   </a>
-  <p>❤️ 19</p>
-  <a href="https://coff.ee/manishkandari9" target="_blank">https://coff.ee/manishkandari9</a>
 </div>
 
 
