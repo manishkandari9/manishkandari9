@@ -90,21 +90,45 @@ if __name__ == '__main__':
 
 ```javascript
 const design_tools = {
-    "UI/UX": ["Figma", "Adobe XD"],
-    "Graphics": ["Photoshop", "Illustrator"],
-    "Prototyping": ["InVision", "Sketch"]
+    "UI/UX": ["Figma", "Framer", "Adobe XD"],
+    "Graphics": ["Adobe Photoshop", "Adobe Illustrator", "Canva"],
+    "Prototyping": ["Figma", "Framer", "Sketch"],
+    "AI Tools": ["Uizard", "Galileo AI", "Visily"]
 };
+
 ```
 <div align="center">
-  <h3>Frameworks that I have worked on</h3>
+  <h3>🚀 Frameworks that I have worked on</h3>
   <div>
+    <!-- React -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Tailwind" width="40" height="40"/>
+    
+    <!-- Next.js -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+
+    <!-- Node.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+
+    <!-- Express.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+
+    <!-- Tailwind CSS -->
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+
+    <!-- Django -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+
+    <!-- Flask -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+
+    <!-- FastAPI -->
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
+
+    <!-- Gin (Go Framework) -->
+    <img src="https://user-images.githubusercontent.com/62628408/235638889-59d18356-ef8d-4e38-a34e-9bb1fd51056b.png" alt="Gin Gonic" width="40" height="40"/>
   </div>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <div align="left">
