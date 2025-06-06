@@ -14,9 +14,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <p align="center">
-  [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%F0%9F%8D%B5-blue)](https://www.buymeacoffee.com/yourusername) ❤️ 19 <br>
+  [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%F0%9F%8D%B5-blue)](https://www.buymeacoffee.com/manishkandari9) ❤️ 19 <br>
   https://coff.ee/manishkandari9
 </p>
+
 
 
 <h2 align="center">Leetcode Info</h2>  
