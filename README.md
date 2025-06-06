@@ -61,30 +61,33 @@ class ManishKandari:
         self.leetcode = '@manishkandari09'
         self.linkedin = 'manishsinghkandari'
         self.code = {
-            'languages': ['JavaScript', 'Python', 'C++', 'C', 'Java', 'Go'],
-            'frontend': ['React.js', 'Next.js', 'Tailwind CSS'],
-            'backend': ['Node.js', 'Express.js'],
-            'database': ['MongoDB'],
-            'dev_tools': ['GIT', 'GitHub', 'CI/CD', 'Figma'],
-            'other_skills': ['REST API'],
+            'language': ['JavaScript', 'Python', 'C++', 'C', 'Java', 'Go', 'TypeScript'],
+            'web_tech': ['React.js', 'Node.js', 'Next.js', 'Express', 'Tailwind CSS'],
+            'database': ['MongoDB', 'PostgreSQL'],
+            'tools': ['GIT', 'GitHub'],
         }
+        self.dev_tools = ['Docker']
 
-    def __str__(self):
-        profile = f"👨‍💻 Developer Profile: {self.name} (@{self.username})\n"
-        profile += f"🌐 Portfolio: {self.web}\n"
-        profile += f"🔗 LinkedIn: {self.linkedin}\n"
-        profile += f"🧠 LeetCode: {self.leetcode}\n\n"
-        profile += "🛠️ Tech Stack:\n"
-        for key, values in self.code.items():
-            label = key.replace('_', ' ').title()
-            tech_list = ', '.join(values)
-            profile += f" - {label}: {tech_list}\n"
-        return profile
+    def generate_markdown(self):
+        md = f"# {self.name}\n\n"
+        md += f"👨‍💻 **Developer Profile:** {self.name} (@{self.username})  \n"
+        md += f"🌐 **Portfolio:** [{self.web}]({self.web})  \n"
+        md += f"🔗 **LinkedIn:** [{self.linkedin}](https://www.linkedin.com/in/{self.linkedin})  \n"
+        md += f"🧠 **LeetCode:** [{self.leetcode}](https://leetcode.com/{self.leetcode.strip('@')})  \n\n"
+        md += "---\n\n"
+        md += "### 🛠️ Skills:\n\n"
+        for category, items in self.code.items():
+            label = category.replace('_', ' ').title()
+            md += f"- **{label}:** {', '.join(items)}  \n"
+        md += f"- **Dev Tools:** {', '.join(self.dev_tools)}  \n"
+        return md
 
 
-# Example usage
+# Usage:
 manish = ManishKandari()
-print(manish)
+readme_md = manish.generate_markdown()
+print(readme_md)
+
 
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
