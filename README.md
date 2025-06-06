@@ -13,9 +13,12 @@
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/manishkandari9" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8D%B5-yellowgreen?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"/>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://coff.ee/manishkandari9" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Coffee" 
+      style="height: 60px; width: 217px; border-radius: 8px;" />
   </a>
 </div>
 
