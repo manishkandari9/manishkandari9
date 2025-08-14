@@ -24,8 +24,7 @@
 
 
 
-```
-<h2 align="center">Leetcode Info</h2>  
+<!-- <h2 align="center">Leetcode Info</h2>  
 
 <p align="center">
   <a href="https://leetcode.com/manishkandari09/" target="_blank">
@@ -36,8 +35,8 @@
 
 <p align="center">
   <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/manishkandari09?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-```
+</p> -->
+
 
 <!--<table align="center">
   <tbody>
