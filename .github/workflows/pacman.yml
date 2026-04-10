@@ -1,0 +1,27 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: manishkandari9
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
