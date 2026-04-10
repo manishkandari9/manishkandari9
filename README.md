@@ -6,7 +6,7 @@
     </td>
     <td align="right" width="120">
       <div>
-        <img src="https://profile-counter.glitch.me/manishkandari9/count.svg?" width="100" />
+       <img src="https://komarev.com/ghpvc/?username=manishkandari9&label=Profile%20views&color=0e75b6&style=flat" />
       </div>
     </td>
   </tr>
