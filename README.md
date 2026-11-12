@@ -2,6 +2,10 @@
 
 # Hi, I'm Manish Kandari 👋
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+useful+things+with+code;Web+Development+%7C+Go+%7C+Open+Source;Always+learning.+Always+building." alt="Animated introduction: building useful things with code" />
+
+![Profile views](https://komarev.com/ghpvc/?username=manishkandari9&label=Profile%20views&color=0e75b6&style=flat)
+
 ### Web development · Developer tools · Go
 
 Building useful projects, exploring backend systems, and learning through code.
@@ -28,6 +32,10 @@ Building useful projects, exploring backend systems, and learning through code.
 
 ## 🛠️ Toolbox
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,go,python,rust,mongodb,postgres,docker,git,figma&amp;perline=7" alt="JavaScript, TypeScript, React, Next.js, Node.js, Tailwind, Go, Python, Rust, MongoDB, PostgreSQL, Docker, Git and Figma" />
+</p>
+
 **Web:** JavaScript · TypeScript · React · Next.js · Node.js · Tailwind CSS  
 **Backend & data:** Go · Python · Express · MongoDB · PostgreSQL  
 **Tools:** Git · GitHub · Docker · Figma
@@ -41,6 +49,21 @@ Building useful projects, exploring backend systems, and learning through code.
 - [Python Library Management](https://github.com/manishkandari9/Library_management_using_python)
 
 </details>
+
+## 📈 Contribution activity
+
+[![Manish's GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manishkandari9&theme=react-dark&hide_border=true)](https://github.com/manishkandari9?tab=overview)
+
+## 🔥 Streak & GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manishkandari9&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak, longest streak, and total contributions" width="650" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkandari9&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Manish's GitHub statistics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkandari9&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages across public repositories" width="49%" />
+</p>
 
 ## 🐍 Contributions in motion
 
